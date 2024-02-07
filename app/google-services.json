@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380503087929",
+    "project_id": "firm-plexus-386809",
+    "storage_bucket": "firm-plexus-386809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380503087929:android:6b5c8cefff3ce30c6b26e8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc6NaP2UYpjfRzsC1xDY0BhqCA9EnddAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
